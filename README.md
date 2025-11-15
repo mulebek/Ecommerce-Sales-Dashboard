@@ -1,0 +1,2 @@
+# Ecommerce Sales Dashboard
+E-commerce Sales Performance Dashboard | Power BI  Developed an interactive Power BI dashboard to transform raw e-commerce data into actionable business intelligence. The dashboard tracks key performance indicators like YTD Sales ($11.53M) and Profit Margin (11.58%), and visualizes sales trends, category performance, and regional analysis. It enables stakeholders to identify top-selling products, monitor monthly trends, and pinpoint high-value customer segments, facilitating data-driven strategic decisions.
