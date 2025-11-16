@@ -1,5 +1,9 @@
 # 🛒 Ecommerce Sales Dashboard
 
+![checkout my work here]
+![Animation](https://github.com/user-attachments/assets/8aef8a7c-9c59-4bf7-b856-e58d5126de78)
+
+
 ## 📊 Overview
 Interactive Power BI dashboard analyzing $11.5M+ in ecommerce sales with YTD performance tracking.
 
