@@ -7,6 +7,9 @@
 ## 📊 Overview
 Interactive Power BI dashboard analyzing $11.5M+ in ecommerce sales with YTD performance tracking.
 
+<img width="1161" height="651" alt="Screenshot 2025-11-15 221602" src="https://github.com/user-attachments/assets/5074daab-68de-45eb-a1fb-6cad8e797b54" />
+
+
 ## 🎯 Features
 - **Real-time KPI Tracking** - Sales, Profit, Quantity, Margin
 - **Interactive Filters** - Year, Segment, Region
@@ -20,9 +23,5 @@ Interactive Power BI dashboard analyzing $11.5M+ in ecommerce sales with YTD per
 - **Business Intelligence** - Ecommerce metrics, Performance tracking
 
 ## 📸 Dashboard Preview
-![Dashboard GIF](dashboard-preview.gif)
-
-## 📁 Files
-- `ecommerce-dashboard.pbix` - Power BI file
-- `sample-data.csv` - Sample dataset
-- `dashboard-preview.gif` - Animated showcase
+![Dashboard GIF](dashboard-preview.gif![Animation](https://github.com/user-attachments/assets/5ee133f2-0605-4b02-b4e6-b504334ee1e3)
+)
